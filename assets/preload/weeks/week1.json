@@ -1,0 +1,48 @@
+{
+	"storyName": "Nathan",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"nathan",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Stake Out",
+			"nathan",
+			[
+				235,
+				235,
+				255
+			]
+		],
+		[
+			"Cold Blooded",
+			"nathan",
+			[
+				235,
+				255,
+				235
+			]
+		],
+		[
+			"Nothing Personal",
+			"nathan",
+			[
+				255,
+				235,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Nathan"
+}
